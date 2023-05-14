@@ -1,0 +1,33 @@
+*{
+    background-color: #111111;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: xx-large;
+    background-image: url("background_imge.jpeg");
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+#website-title{
+    background-color: #111111;
+    height: 100px;
+}
+#game-name{
+    color: white;
+    text-align: center;
+}
+input{
+    background-color: white;
+    color: white;
+}
