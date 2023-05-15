@@ -31,3 +31,8 @@ input{
     background-color: white;
     color: white;
 }
+
+#clear, #search{
+    color: white;
+    background-color: transparent;
+}
